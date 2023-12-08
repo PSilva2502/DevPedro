@@ -10,4 +10,4 @@
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-Estudante de SISTEMAS DE INFORMAÇÕES, buscando tornar-se um desenvolvedor BACK-END, estudando Python e SQL
+Estudante de SISTEMAS DE INFORMAÇÕES na UniRios(CENTRO UNIVERSITÁRIO DO RIO SÃO FRANCISCO - PAULO AFONSO), buscando tornar-se um desenvolvedor BACK-END, estudando Python e SQL
