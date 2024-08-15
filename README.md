@@ -1,4 +1,4 @@
-### Olá! Eu sou Pedro Silva 👋
+### Olá! Eu me chamo Pedro Silva, sou estudante de SISTEMAS DE INFORMAÇÃO 6/8 👋
 
 ![PSilva2502 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedro&show_icons=true&theme=dracula)
 
