@@ -1,8 +1,3 @@
-
-![PSilva2502 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedro&show_icons=true&theme=dracula)
-Estudante de SISTEMAS DE INFORMAÇÕES na UniRios(CENTRO UNIVERSITÁRIO DO RIO SÃO FRANCISCO - PAULO AFONSO), buscando tornar-se um desenvolvedor FULL-STACK, estudando tudo que posso
-### Olá! Eu me chamo Pedro Silva, sou estudante de SISTEMAS DE INFORMAÇÃO 6/8 👋
-
 ![PSilva2502 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedro&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no dia a dia
