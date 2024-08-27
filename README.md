@@ -1,6 +1,5 @@
 ![PSilva2502 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedro&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no dia a dia
 
 <h1 align="center">
   <b>Pedro Silva</b>
@@ -9,6 +8,7 @@
 Olá 👋 Eu sou o Pedro Silva, um eterno aprendiz! Entusiasta de novas formas de aprendizado.
 <br>
 
+## Tecnologias que eu uso no dia a dia
 <p>
 <div align="center">
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
