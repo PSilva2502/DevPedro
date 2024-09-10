@@ -1,24 +1,4 @@
-![PSilva2502 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedro&show_icons=true&theme=dracula)
 
-
-<h1 align="center">
-  <b>Pedro Silva</b>
-</h1>
-
-Olá 👋 Eu sou o Pedro Silva, um eterno aprendiz! Entusiasta de novas formas de aprendizado.
-<br>
-
-## Tecnologias que eu uso no dia a dia
-<p>
-<div align="center">
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="SLQSERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-</p>
 
 ```python
 class Pedro():
