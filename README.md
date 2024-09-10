@@ -19,6 +19,8 @@ if __name__ == '__main__':
 
 ###
 
+<br clear="both">
+
 <p align="center">Tecnologias que eu uso no dia a dia</p>
 
 ###
@@ -49,6 +51,10 @@ if __name__ == '__main__':
 
 ###
 
+<p align="left"><hr style="border: 1px solid #000; width: 80%;"></p>
+
+###
+
 <p align="center">Social Media</p>
 
 ###
@@ -68,9 +74,5 @@ if __name__ == '__main__':
   <img src="https://github-readme-stats.vercel.app/api?username=PSilva2502&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PSilva2502&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/PSilva2502/PSilva2502/output/snake.svg" alt="Snake animation" />
 
 ###
