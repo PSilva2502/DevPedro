@@ -16,13 +16,3 @@ class Pedro():
 if __name__ == '__main__':
     me = Pedro()
 ```
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/ronierison.maciel">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
-
